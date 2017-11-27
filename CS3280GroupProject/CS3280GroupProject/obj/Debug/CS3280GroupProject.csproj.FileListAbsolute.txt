@@ -1,0 +1,13 @@
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\bin\Debug\CS3280GroupProject.exe.config
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\bin\Debug\CS3280GroupProject.exe
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\bin\Debug\CS3280GroupProject.pdb
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\SearchWindow.g.cs
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\App.g.cs
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\CS3280GroupProject_MarkupCompile.cache
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\SearchWindow.baml
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\CS3280GroupProject.g.resources
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\CS3280GroupProject.Properties.Resources.resources
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\CS3280GroupProject.csproj.GenerateResource.Cache
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\CS3280GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\CS3280GroupProject.exe
+C:\Users\shaht_000\Desktop\C#2\CS3280GroupProject\CS3280GroupProject\obj\Debug\CS3280GroupProject.pdb
